@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-LLM-Web-Interfaces/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-LLM-Web-Interfaces?style=for-the-badge&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-LLM-Web-Interfaces/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-LLM-Web-Interfaces?style=for-the-badge&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-LLM-Web-Interfaces/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-LLM-Web-Interfaces?style=for-the-badge&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-LLM-Web-Interfaces/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-LLM-Web-Interfaces?style=for-the-badge&color=brightgreen" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-LLM-Web-Interfaces/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT" /></a>
@@ -58,7 +58,7 @@ The LLM web interface and developer application sector is part of the rapidly gr
 
 *Ranked in descending order of popularity based on real-time GitHub stargazer counts.*
 
-### 1. [Ollama](https://github.com/ollama/ollama) [![GitHub stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers)
+### 1. [Ollama](https://github.com/ollama/ollama) [![GitHub_Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers)
 > **The open-source local model runner standard** • MIT License
 
 One-command model pull and run (`ollama run gemma4` or `ollama run llama3`). 
@@ -69,7 +69,7 @@ One-command model pull and run (`ollama run gemma4` or `ollama run llama3`).
 
 ---
 
-### 2. [Open WebUI](https://github.com/open-webui/open-webui) [![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)
+### 2. [Open WebUI](https://github.com/open-webui/open-webui) [![GitHub_Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)
 > **The full-featured self-hosted agentic platform and ChatGPT alternative** • Open Source
 
 Positioned as the comprehensive platform layer on top of local runtimes like Ollama and remote APIs.
@@ -80,7 +80,7 @@ Positioned as the comprehensive platform layer on top of local runtimes like Oll
 
 ---
 
-### 3. [NextChat (ChatGPT-Next-Web)](https://github.com/ChatGPTNextWeb/NextChat) [![GitHub stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=social&color=white)](https://github.com/ChatGPTNextWeb/NextChat/stargazers)
+### 3. [NextChat (ChatGPT-Next-Web)](https://github.com/ChatGPTNextWeb/NextChat) [![GitHub_Stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat?style=social&color=white)](https://github.com/ChatGPTNextWeb/NextChat/stargazers)
 > **Lightweight, one-click deployable cross-platform AI workspace** • MIT License
 
 An ultra-fast, cross-platform chat client (Web, PWA, Desktop on macOS/Windows/Linux) designed for multi-provider BYOK access.
@@ -90,7 +90,7 @@ An ultra-fast, cross-platform chat client (Web, PWA, Desktop on macOS/Windows/Li
 
 ---
 
-### 4. [LobeChat](https://github.com/lobehub/lobe-chat) [![GitHub stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social&color=white)](https://github.com/lobehub/lobe-chat/stargazers)
+### 4. [LobeChat](https://github.com/lobehub/lobe-chat) [![GitHub_Stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social&color=white)](https://github.com/lobehub/lobe-chat/stargazers)
 > **Modern multi-modal agent workspace with plugin ecosystem** • Apache 2.0 License
 
 An exquisitely designed open-source AI conversational platform with full multi-modal and agent ecosystem support.
@@ -100,7 +100,7 @@ An exquisitely designed open-source AI conversational platform with full multi-m
 
 ---
 
-### 5. [GPT4All](https://github.com/nomic-ai/gpt4all) [![GitHub stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social&color=white)](https://github.com/nomic-ai/gpt4all/stargazers)
+### 5. [GPT4All](https://github.com/nomic-ai/gpt4all) [![GitHub_Stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social&color=white)](https://github.com/nomic-ai/gpt4all/stargazers)
 > **Privacy-first desktop assistant with on-device LocalDocs** • MIT License
 
 Desktop GUI created by Nomic AI designed to run entirely offline on consumer laptops and desktop hardware without an internet connection.
@@ -110,7 +110,7 @@ Desktop GUI created by Nomic AI designed to run entirely offline on consumer lap
 
 ---
 
-### 6. [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) [![GitHub stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white)](https://github.com/Mintplex-Labs/anything-llm/stargazers)
+### 6. [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) [![GitHub_Stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white)](https://github.com/Mintplex-Labs/anything-llm/stargazers)
 > **The all-in-one private AI workspace with built-in RAG and multi-user support** • MIT License
 
 An end-to-end AI application and enterprise-ready workspace designed to query documents, media, and codebases locally or in private clouds.
@@ -120,7 +120,7 @@ An end-to-end AI application and enterprise-ready workspace designed to query do
 
 ---
 
-### 7. [LocalAI](https://github.com/mudler/LocalAI) [![GitHub stars](https://img.shields.io/github/stars/mudler/LocalAI?style=social&color=white)](https://github.com/mudler/LocalAI/stargazers)
+### 7. [LocalAI](https://github.com/mudler/LocalAI) [![GitHub_Stars](https://img.shields.io/github/stars/mudler/LocalAI?style=social&color=white)](https://github.com/mudler/LocalAI/stargazers)
 > **The self-hosted drop-in OpenAI-compatible multi-modal AI stack** • MIT License
 
 A versatile, self-hosted C++ engine providing a complete drop-in replacement for OpenAI APIs across text, image, audio, and embeddings.
@@ -130,7 +130,7 @@ A versatile, self-hosted C++ engine providing a complete drop-in replacement for
 
 ---
 
-### 8. [Text Generation WebUI (TextGen)](https://github.com/oobabooga/text-generation-webui) [![GitHub stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social&color=white)](https://github.com/oobabooga/text-generation-webui/stargazers)
+### 8. [Text Generation WebUI (TextGen)](https://github.com/oobabooga/text-generation-webui) [![GitHub_Stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social&color=white)](https://github.com/oobabooga/text-generation-webui/stargazers)
 > **The power-user's versatile playground for model backends** • AGPL-3.0 License
 
 A Gradio-based web interface and inference server revered among AI researchers and power users.
@@ -140,7 +140,7 @@ A Gradio-based web interface and inference server revered among AI researchers a
 
 ---
 
-### 9. [LibreChat](https://github.com/danny-avila/LibreChat) [![GitHub stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=social&color=white)](https://github.com/danny-avila/LibreChat/stargazers)
+### 9. [LibreChat](https://github.com/danny-avila/LibreChat) [![GitHub_Stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=social&color=white)](https://github.com/danny-avila/LibreChat/stargazers)
 > **Unified multi-provider enterprise AI chat platform** • MIT License
 
 An open-source interface unifying OpenAI, Anthropic Claude, Google Gemini, AWS Bedrock, Azure, Mistral, and local runtimes under one pane of glass.
@@ -150,7 +150,7 @@ An open-source interface unifying OpenAI, Anthropic Claude, Google Gemini, AWS B
 
 ---
 
-### 10. [Jan](https://github.com/janhq/jan) [![GitHub stars](https://img.shields.io/github/stars/janhq/jan?style=social&color=white)](https://github.com/janhq/jan/stargazers)
+### 10. [Jan](https://github.com/janhq/jan) [![GitHub_Stars](https://img.shields.io/github/stars/janhq/jan?style=social&color=white)](https://github.com/janhq/jan/stargazers)
 > **The 100% open-source, privacy-first desktop alternative to LM Studio** • AGPL-3.0 License
 
 An elegant native desktop client (macOS, Windows, Linux) that allows downloading, running, and fine-tuning open-source LLMs offline.
@@ -160,7 +160,7 @@ An elegant native desktop client (macOS, Windows, Linux) that allows downloading
 
 ---
 
-### 11. [SillyTavern](https://github.com/SillyTavern/SillyTavern) [![GitHub stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social&color=white)](https://github.com/SillyTavern/SillyTavern/stargazers)
+### 11. [SillyTavern](https://github.com/SillyTavern/SillyTavern) [![GitHub_Stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social&color=white)](https://github.com/SillyTavern/SillyTavern/stargazers)
 > **Advanced narrative frontend and roleplay character chat studio** • LLPL / Open Source
 
 A specialized, feature-dense user interface tailored for interactive storytelling, roleplay, and conversational characters.
@@ -170,7 +170,7 @@ A specialized, feature-dense user interface tailored for interactive storytellin
 
 ---
 
-### 12. [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) [![GitHub stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui?style=social&color=white)](https://github.com/mckaywrigley/chatbot-ui/stargazers)
+### 12. [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) [![GitHub_Stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui?style=social&color=white)](https://github.com/mckaywrigley/chatbot-ui/stargazers)
 > **Clean open-source ChatGPT clone built with Next.js & Supabase** • MIT License
 
 An intuitive, responsive frontend replicating the familiar ChatGPT UI for developers who want a lightweight BYOK platform.
@@ -180,7 +180,7 @@ An intuitive, responsive frontend replicating the familiar ChatGPT UI for develo
 
 ---
 
-### 13. [big-AGI](https://github.com/enricoros/big-AGI) [![GitHub stars](https://img.shields.io/github/stars/enricoros/big-AGI?style=social&color=white)](https://github.com/enricoros/big-AGI/stargazers)
+### 13. [big-AGI](https://github.com/enricoros/big-AGI) [![GitHub_Stars](https://img.shields.io/github/stars/enricoros/big-AGI?style=social&color=white)](https://github.com/enricoros/big-AGI/stargazers)
 > **Local-first generative workspace featuring multi-model Beam comparison** • MIT License
 
 A high-performance web application designed for prompt engineers, researchers, and AI experimenters.
