@@ -30,29 +30,25 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The LLM web interface and developer application sector is part of the rapidly growing Generative AI application layer, estimated at **$25B-$55B+ globally by 2026** (growing at a 30%-40% CAGR). While the foundational model layer remains concentrated among hyperscalers and frontier labs (OpenAI, Anthropic, Google, Meta), the front-end interface and tooling space is **moderately to highly fragmented**, characterized by open-source innovation, indie bootstrappers, and specialized multi-model client platforms competing for developer and workspace mindshare.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[LM Studio](https://lm-studio.cn/)**  
-
-  **The polished desktop GUI—but not fully open-source.** Free desktop app for macOS, Windows, and Linux that downloads and runs GGUF/MLX models with a clean chat interface. **Features**: in-app model discovery via Hugging Face, built-in MCP client support, local REST API with OpenAI-compatible endpoints, and a headless daemon (`llmster`) for server use without the GUI . **Critical caveat**: LM Studio is **closed-source** (unlike Ollama and Jan). Best for users who prioritize a polished GUI and don't require source access.
-
-
-
-- **No dedicated SaaS platforms exist for this category beyond closed-source desktop apps.** The core value of these tools is local execution—cloud-hosted chat interfaces are separate products (ChatGPT, Claude, etc.) and not substitutes for local model management.
-
-
+| Platform | Starting Tier Price | Free Tier / Trial Limits | Company Size (Valuation / Revenue) | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Poe (by Quora)](https://poe.com/)** | $10.00/month (Lite monthly) | 300 compute points per day (resets every 24 hours, non-rollover; access to basic models) | ~$500M valuation ($75M Series D from a16z; ~$65M ARR) | Freemium multi-bot ecosystem and consumer hub for accessing models from OpenAI, Anthropic, Google, and independent creators under unified point quotas. |
+| **[LM Studio](https://lm-studio.cn/)** | $20.00/month (Bionic+ tier for hosted frontier open models) | Unlimited local usage forever (zero fees for local models; Bionic free includes local execution, offline voice transcription, and LM Link for up to 5 devices; hosted cloud frontier models require paid plan) | $19.3M venture funding (~$1.8M ARR; Element Labs) | Polished desktop client and local runtime for running GGUF/MLX models offline with OpenAI-compatible endpoints, MCP client support, and optional cloud model add-ons. |
+| **[TypingMind](https://www.typingmind.com/)** | $39.00 one-time (Standard license) / $99.00/month (Team 5-seat tier) | Unlimited BYOK chats forever (chat history is not saved locally across browser sessions; periodic upgrade prompts; advanced features like AI agents and web search restricted) | ~$1.5M+ ARR (Bootstrapped by Tony Dinh; no external VC funding) | Feature-packed commercial web frontend for LLM APIs (OpenAI, Claude, Gemini) with prompt libraries, custom agents, and team workspaces. |
+| **[Big-AGI Pro](https://big-agi.com/)** | $9.00/month ($108.00/year annual tier) | Unlimited local-first BYOK chats forever (full access to Beam multi-model testing and personas; no cloud backups or cross-device cloud sync included on free tier) | Bootstrapped / Community sponsored ($0 institutional funding; supported via Pro subs & GitHub Sponsors) | Local-first, power-user interface featuring 'Beam' multi-model parallel prompt exploration, custom persona workspaces, and optional cloud synchronization. |
+| **[ChatHub](https://chathub.gg/)** | $14.99/month ($179.88/year billed annually; $19.00/month billed monthly) | Up to 3 AI chats and 3 file uploads on web client forever (unlimited messages if using browser extension with personal provider logins / BYOK accounts) | Bootstrapped / Indie (~$0 institutional VC funding) | Multi-model chatbot aggregator extension and web client letting users run side-by-side prompt comparisons across ChatGPT, Claude, Gemini, and Grok. |
 
 ## Open-Source GitHub Projects
 
